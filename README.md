@@ -1,2 +1,2 @@
-# Text-Meaning-Project
-Text Meaning Project
+# Text-Mining-Project
+Text Mining Project
