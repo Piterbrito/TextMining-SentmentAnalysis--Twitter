@@ -1,4 +1,4 @@
 # Text-Mining-Project
 Text Mining Project
 
-(Images/piechart1.png)
+![Pie](doc/teaser.png)(Images/piechart1.png)
