@@ -15,7 +15,7 @@ and get Insights about his popularity.
 - Use WorldCloud library To show most frequently words.
 - Perform Visualization methods (pie Chart, scatter plot, bar plot)
 
-# Finds
+# Findings
 Based on Modi’s Popularity on Twitter, he is front and center in upcoming election
 
 - Only 8% of his tweets has negative sentiment, doing fairly good in writing tweets.
