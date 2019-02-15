@@ -19,12 +19,9 @@ and get Insights about his popularity.
 Based on Modi’s Popularity on Twitter, he is front and center in upcoming election
 
 - Only 8% of his tweets has negative sentiment, doing fairly good in writing tweets.
-
 - 32% of twitter users have positive sentiment for him.
-
 - Roughly 20% of users are against him. This may include the opposition.
 
 ![x](Images/Polarity_of_Modi's_Tweets.png)
-
 
 ![x](Images/wordcloud.png)
