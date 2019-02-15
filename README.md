@@ -6,7 +6,7 @@ Create a scripit using Python that extract Tweets related of the prime minister 
 and get Insights about his popularity. 
 
 # Plan
-- Extract Tweets of #Modi and Modi account from last 14 days.
+- Extract Tweets of #Modi and Modi account from last 14 days using Python an Twitter APIs.
 - Create a Data Frame using Panda Library to stored the Tweets.
 - Clean the data removing uncessary characters.
 - Munging the data and slice it into the columns (user, tweet, date, likes, retuits and len)
