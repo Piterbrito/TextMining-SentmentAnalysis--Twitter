@@ -1,8 +1,8 @@
-# Idian Elections, Text-Mining Group-Project 
+# Indian Elections, Text-Mining Group-Project 
 Text Mining Data fromm Twitter APIs
 
 # Goal
-Create a scripit using Python that extract Tweets related of the prime minister of India called "Modi"
+Create a scripit using Python that extract Tweets related to the prime minister of India, "Narendra Modi"
 and get Insights about his popularity. 
 
 # Plan
