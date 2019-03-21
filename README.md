@@ -28,17 +28,11 @@ Based on Modi’s Popularity on Twitter, he is front and center in upcoming elec
 
 ![x](Images/Sources.png)	
 
-![x](Images/Types_of_Sources.png)
-
 ![x](Images/Lenght_of_Tweets.png)
 
 ![x](Images/Likes_and_Retweets.png)
 
-![x](Images/RT-likes.png)
-
 ![x](Images/Sentiment.png)
-
-![x](Images/Sentiment_Score_Board.png)	
 
 ![x](Images/pubpie.png)
 
