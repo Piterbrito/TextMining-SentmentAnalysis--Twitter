@@ -25,9 +25,9 @@ Based on Modi’s Popularity on Twitter, he is front and center in upcoming elec
 * Roughly 20% of users are against him. This may include the opposition.
 
 
-#### Comparison of our Polarity PieChart against the results of recent Election in India
+### Comparison of our Polarity PieChart against the results of recent Election in India
 
-![x](Images/Comparinson.png)
+![x](Images/comparinson.png)
 
 
 # Visualizations
@@ -46,7 +46,7 @@ Based on Modi’s Popularity on Twitter, he is front and center in upcoming elec
 
 ![x](Images/pubpie.png)
 
-![x](Images/tweetlength)
+![x](Images/tweetlength.png)
 
 
 
