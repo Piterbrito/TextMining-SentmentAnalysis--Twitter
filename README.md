@@ -1,16 +1,16 @@
 # Indian Elections, Text-Mining Group-Project 
-Text Mining Data fromm Twitter APIs
+Text Mining Data from Twitter APIs
 
 # Goal
 Create a scripit using Python that extract Tweets related to the prime minister of India, "Narendra Modi"
 and get Insights about his popularity. 
 
 # Plan
-- Extract Tweets of #Modi and Modi account from last 14 days using Python an Twitter APIs.
-- Create a Data Frame using Panda Library to stored the Tweets.
+- Extract Tweets of #Modi and Modi account from last 14 days using Python and Twitter APIs.
+- Create a Data Frame using Panda Library to store the Tweets.
 - Clean the data removing uncessary characters.
-- Munging the data and slice it into the columns (user, tweet, date, likes, retuits and len)
-- Classifying the data using TextBlob Library.
+- Munging the data and slice it into the columns (user, tweet, date, likes, retweets and len)
+- Classifying the sentiment polarity of tweets using TextBlob Library.
 - Peform a Sentiment Analysis using  TextBlob and Panda Library.
 - Use WorldCloud library To show most frequently words.
 - Perform Visualization methods (pie Chart, scatter plot, bar plot)
